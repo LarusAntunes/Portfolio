@@ -1,7 +1,8 @@
 header{
     height: 80px;
-    background-image: url(Img/fundo-preto.gif);
+    /* background-image: url(Img/fundo-preto.gif); */
     background: -moz-linear-gradient();
+    background-color: black;
     
 }
 
